@@ -1,11 +1,11 @@
 # StarWars App
 
-Criar um pequeno guia dos filmes da serie StarWars
+Criar um pequeno guia dos filmes da serie StarWars da forma que você achar que seja mais interessante.
 
 ## Requisitos:
 
 - Utilizar React
-- Consumir dados da [API](https://swapi.co/)
+- Consumir dados da API: [swapi.co](https://swapi.co/)
 - Entregar, mesmo que incompleto!
 
 ## O que será avalido:
