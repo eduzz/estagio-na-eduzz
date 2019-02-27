@@ -1,14 +1,14 @@
 # Crud App
 
-Crie uma API rest de crud de um blog (titulo, autor, categoria, texto)
+Crie uma API rest de crud de um blog (título, autor, categoria, texto)
 
 ## Requisitos:
 
 - Desenvolver em qualquer linguagem, usando qualquer base de dados
-- Criar metodos de listagem, adição, edição e exclusão de posts
+- Criar métodos de listagem, adição, edição e exclusão de posts
 - A api deverá responder em JSON
 
-## O que será avalido:
+## O que será avaliado:
 
 - Utilização das boas práticas
 - Separação de responsabilidades
