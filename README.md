@@ -14,7 +14,7 @@ Se você compartilha do mesmo sentimento de crescimento pessoal e de auxiliar no
 
 Para fazer parte de nosso time de desenvolvimento disponibilizamos dois testes abaixo, siga as instruções detalhadas encontradas em cada um deles.
 
-Você tem até o dia 20/03 para nos enviar o(s) projeto(s) abaixo.
+Você tem até o dia 29/03 para nos enviar pelo menos um dos desafios acima
 
 Fique tranquilo e dê o seu melhor.
 
