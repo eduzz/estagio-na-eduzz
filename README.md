@@ -16,6 +16,8 @@ Para fazer parte de nosso time de desenvolvimento disponibilizamos dois testes a
 
 Você tem até o dia 29/03 para nos enviar pelo menos um dos desafios acima
 
+Qualquer dúvida entre em contato pelo email: dev@eduzz.com
+
 Fique tranquilo e dê o seu melhor.
 
 Boa sorte!
