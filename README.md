@@ -14,9 +14,14 @@ Se você compartilha do mesmo sentimento de crescimento pessoal e de auxiliar no
 
 Para fazer parte de nosso time de desenvolvimento disponibilizamos dois testes abaixo, siga as instruções detalhadas encontradas em cada um deles.
 
-Você tem até o dia 29/03 para nos enviar pelo menos um dos desafios acima
+Você tem até o dia 29/03 para nos enviar pelo menos um dos desafios acima.
 
-Qualquer dúvida entre em contato pelo email: dev@eduzz.com
+Ao finalizar, favor enviar os dados abaixo para e-mail dev@eduzz.com
+. Nome Completo
+. E-mail
+. Celular
+
+Qualquer dúvida entre em contato também pelo email dev@eduzz.com
 
 Fique tranquilo e dê o seu melhor.
 
