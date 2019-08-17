@@ -18,7 +18,7 @@ Crie uma API rest de crud de um blog (título, autor, categoria, texto)
 ## O que será considerado pra caramba:
 
 - SOLID
-- Utilizar o Laravel
+- Utilizar o Laravel ou Lumen
 - Repository Pattern
 - Build com Docker
 
